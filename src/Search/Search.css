@@ -1,0 +1,12 @@
+.inputSearch > form > input {
+  padding: 10px;
+  margin-top: 25px;
+  width: 500px;
+  height: 30px;
+  background-color: whitesmoke;
+  margin-left: 450px;
+}
+
+.albumInfo {
+  margin-left: 575px;
+}
